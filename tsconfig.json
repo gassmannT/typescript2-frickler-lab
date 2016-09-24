@@ -7,6 +7,7 @@
         "outFile": "output/app.js",
         "rootDir": "app/**/*.ts",
         "diagnostics": true,
-        "noImplicitAny": false
+        "noImplicitAny": false,
+        "strictNullChecks": true
     }
 }
