@@ -3,6 +3,8 @@ namespace MyCoolApp {
 
     angular.module("MyCoolApp", [
 
+
+
     ]);
 }
 
