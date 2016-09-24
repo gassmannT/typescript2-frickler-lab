@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "module": "none",
+        "sourceMap": true,
+        "removeComments": true,
+        "outFile": "output/app.js",
+        "rootDir": "app/**/*.ts",
+        "diagnostics": true,
+        "noImplicitAny": false
+    }
+}

@@ -1,0 +1,9 @@
+// Place your settings in this file to overwrite default and user settings.
+{  
+    "tslint.enable": true,
+    "tslint.configFile": "tslint.json",
+    "tslint.run": "onType",
+    "tslint.ignoreDefinitionFiles": true,
+
+    "typescript.tsdk": "node_modules/typescript/lib"
+}
