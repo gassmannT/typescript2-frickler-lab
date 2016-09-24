@@ -15,5 +15,9 @@
     "grunt-typescript": "^0.8.0",
     "tslint": "^3.15.1",
     "typescript": "^2.0.3"
+  },
+  "dependencies": {
+    "@types/angular": "^1.5.16",
+    "@types/jquery": "^2.0.32"
   }
 }
