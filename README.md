@@ -3,6 +3,8 @@
 [https://github.com/Microsoft/TypeScript/releases/tag/v2.0.3](https://github.com/Microsoft/TypeScript/releases/tag/v2.0.3)
 [https://github.com/Microsoft/TypeScript/wiki/What's-new-in-TypeScript#typescript-20](https://github.com/Microsoft/TypeScript/wiki/What's-new-in-TypeScript#typescript-20)
 
+install [visual studio code](http://code.visualstudio.com/) with [TSLint Extension](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
+
 ```
 $ git clone https://github.com/gest01/typescript2-frickler-lab.git
 $ npm install
